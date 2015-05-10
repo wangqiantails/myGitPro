@@ -1,9 +1,0 @@
-this is file1.txt.
-
-fixing bugs now!
-now is ok!
-i am working now
-
-but there is a bug in the code.
-now is ok!
-
